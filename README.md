@@ -1,10 +1,10 @@
 <h1 align="center">Hi, my name is Ysreimer Ortiz</h1>
 
-- I am a programming and web development apprentice 💻
+- I am a programming and web development Jr 💻
 - 
 - 👀 I am interested in being a professional programmer focusing on the future and learning many technologies
 - 
-- Currently I have learned technologies such as HTML, CSS and JavaScript, but soon I will learn new technologies such as Read jS and Next JS
+- Currently I have learned technologies such as HTML, CSS and JavaScript, React JS with Next JS, Tailwind CSS, Material UI, etc.
 
 -📫 How to reach me ...
 
