@@ -8,6 +8,11 @@
 
 -📫 How to reach me ...
 
+- .com ![image](https://github.com/OrtizY30/OrtizY30/assets/135080717/015e57b6-fc59-4372-a32f-3806477a90b3) : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+- Email : ysreimer@gmail.com
+
+- WhatsApp : +573015879165
+
 <!---
 OrtizY30/OrtizY30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
