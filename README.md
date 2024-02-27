@@ -7,10 +7,8 @@
 - Currently I have learned technologies such as HTML, CSS and JavaScript, React JS with Next JS, Tailwind CSS, Material UI, etc.
 
 -📫 How to reach me ...
-
-- .com ![image](https://github.com/OrtizY30/OrtizY30/assets/135080717/015e57b6-fc59-4372-a32f-3806477a90b3) : https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 - Email : ysreimer@gmail.com
-
 - WhatsApp : +573015879165
 
 <!---
